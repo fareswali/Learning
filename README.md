@@ -35,5 +35,15 @@ My background includes engineering, ERP, digital transformation, learning and de
 
 ## Current Progress
 
-- Day 1 started
-- Python basics notes created
+### Day 1: Setup, GitHub, and Python Basics
+
+Completed:
+
+- Created GitHub learning repository
+- Created sprint folder structure
+- Added Python basics notes
+- Created first Python practice file
+- Ran first Python script in Google Colab
+- Saved Colab notebook to GitHub
+
+Day 1 status: Complete
